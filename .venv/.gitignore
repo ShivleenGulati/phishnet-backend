@@ -1,0 +1,10 @@
+# Python Data Science & Flask
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.DS_Store
+.vscode/Remove-Item -Recurse -Force .git
+*.pkl
